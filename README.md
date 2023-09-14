@@ -8,11 +8,6 @@ I'm a software engineer who loves to learn new things and solve problems.
 - GUI Creation tricks
 - Multithreading
 
-## 💬 Ask me about ...
-
-- Anything related to web development, especially JavaScript, HTML, CSS, Node.js, and MongoDB
-- My hobbies, such as playing guitar, reading books, and traveling
-
 ## 📫 How to reach me ...
 - LinkedIn: https://www.linkedin.com/in/mcagriaksoy
 
