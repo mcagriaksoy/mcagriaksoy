@@ -2,11 +2,7 @@
 
 I'm a software engineer who loves to learn new things and solve problems.
 
-## 🌱 I’m currently learning ...
-
-- More knowledge on C
-- GUI Creation tricks
-- Multithreading
+<a href="https://github.com/mcagriaksoy"><img src="https://img.shields.io/github/stars/mcagriaksoy?style=social" alt="stars - CCrypto"></a>
 
 ## 📫 How to reach me ...
 - LinkedIn: https://www.linkedin.com/in/mcagriaksoy
