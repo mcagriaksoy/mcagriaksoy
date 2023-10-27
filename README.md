@@ -10,3 +10,8 @@ I'm a software engineer who loves to learn new things and solve problems.
 ## 😄 Fun fact ...
 - 😄 Pronounce of my name: https://www.youtube.com/watch?v=jDpFWeytZEM
 - ⚡ I am left handed.
+  
+<p align="left">
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=mcagriaksoy&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="nuriozbey" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryashah2k&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+</p>
+<br>
