@@ -12,6 +12,6 @@ I'm a software engineer who loves to learn new things and solve problems.
 - ⚡ I am left handed.
   
 <p align="left">
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=mcagriaksoy&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="mcagriaksoy" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcagriaksoy&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=mcagriaksoy&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="mcagriaksoy" />
 </p>
 <br>
