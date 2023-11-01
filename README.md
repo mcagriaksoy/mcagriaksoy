@@ -1,6 +1,4 @@
-# Hi there, I'm Mehmet 👋
-
-I'm a software engineer who loves to learn new things and solve problems.
+# Hi, I'm Mehmet 👋
 
 <a href="https://github.com/mcagriaksoy"><img src="https://img.shields.io/github/stars/mcagriaksoy?style=social" alt="stars - CCrypto"></a>
 
