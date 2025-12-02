@@ -5,13 +5,5 @@
 <a href="https://scholar.google.com/citations?user=CKRkg1EAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google_Scholar-My_Citations-blue?logo=google+scholar" alt="Google Scholar - My Citations" /></a>
 <a href="https://www.buymeacoffee.com/mcagriaksoy"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="Donate"></a>
 
-```
-                                _       _                    
- _ __ ___   ___ __ _  __ _ _ __(_) __ _| | _____  ___  _   _ 
-| '_ ` _ \ / __/ _` |/ _` | '__| |/ _` | |/ / __|/ _ \| | | |
-| | | | | | (_| (_| | (_| | |  | | (_| |   <\__ \ (_) | |_| |
-|_| |_| |_|\___\__,_|\__, |_|  |_|\__,_|_|\_\___/\___/ \__, |
-                     |___/                             |___/                                                         
-```
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=mcagriaksoy&show_icons=true&theme=transparent)
